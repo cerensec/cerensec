@@ -1,7 +1,29 @@
-Hi!, I’m Carlos Cerén, a student of computer science in the Université Grenoble Alpes in France.
-I'm really interested in porgramming and developping applications. 
+👋 Hello, I'm Carlos Cerén!
 
-<!---
-cerensec/cerensec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 About Me
+
+I am a passionate Software Developer with experience in Backend development, currently pursuing a Mastère in Software Architecture at ESGI Lyon. I specialize in Java development with Spring and have worked on projects involving AngularJS and JavaScript. I'm eager to deepen my expertise in software engineering and DevOps practices.
+
+🚀 My Journey
+
+🎯 Currently working as a Backend Developer at Norsys, contributing to the refactoring of the Orphee application for the French health insurance system.
+
+🎓 Bachelor in DevOps and Fullstack Developer training from W3 Academy.
+
+🛠️ Tech Stack
+
+Backend: Java, Spring, NodeJS 
+
+Frontend: AngularJS, React, Angular, React Native
+
+Databases: MySQL, SQL
+
+DevOps: Docker, Git, CI/CD pipelines
+
+🌱 What I'm Currently Learning
+
+Advanced software architecture patterns
+
+Cloud technologies and infrastructure management
+
+Let's connect and build amazing things together!

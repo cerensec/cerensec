@@ -6,7 +6,7 @@ I am a passionate Software Developer with experience in Backend development, cur
 
 🚀 My Journey
 
-🎯 Currently working as a Backend Developer at Norsys, contributing to the refactoring of the Orphee application for the French health insurance system.
+🎯 Currently working as a Backend Developer at Norsys.
 
 🎓 Bachelor in DevOps and Fullstack Developer training from W3 Academy.
 
